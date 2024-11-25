@@ -274,6 +274,10 @@ header {
     background-color: #292929;
     text-align: center;
 }
+.jhon p{
+    margin-left: auto;
+
+}
 
 .who {
     font-size: 61px;
@@ -286,6 +290,7 @@ header {
 .text-container {
     font-size: 29px;
     padding: 20px;
+    margin-left: 40PX;
 }
 
 .social-container {
@@ -306,12 +311,13 @@ header {
 
 .text-right {
     text-align: left;
+    font-size: 30px;
 }
 
 .testimonials{
-    width:100%;
+    width:88%;
     height:30%;
-    padding:72px;
+    margin-left: auto;
 }
 
 .testimonials h1 {
@@ -328,4 +334,10 @@ header {
 .walter{
     font-size: 25px;
     color: #00aaff;
+}
+.formulario{
+    width:100%;
+    height:70%;
+    background-image: url(./images/bg_contact.png);
+
 }
